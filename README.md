@@ -19,7 +19,7 @@
 
 ```python
 class Luca:
-    role        = "High School IT Student (5th year)"
+    role        = "Studying Computer Engineering at University of Urbino"
     location    = "Italy 🇮🇹"
     languages   = ["Python", "GDScript", "HTML"]
     frameworks  = ["Flask"]
