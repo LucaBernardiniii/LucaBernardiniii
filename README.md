@@ -2,7 +2,8 @@
 
 <p align="center">
   Computer Engineering student at the University of Urbino · Italy<br/>
-  I build Android apps and games, and I care about clean, private, well-designed software.
+  I build Android apps and games, and I care about clean, private, well-designed software.<br/>
+  <sub>Just so you know, my pfp isn't actually me but a character of the game I'm working on</sub>
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@
 |---|---|---|
 | [Briscola Remastered](https://github.com/LucaBernardinii/Briscola_Remastered_progetto_di_natale) | A digital take on the classic Italian card game | Python |
 | [MMDb](https://github.com/LucaBernardinii/MMDb_progetto_natale) | A movie and media tracker inspired by Letterboxd | Python · Flask · HTML |
-| Untitled 2D RPG *(in progress)* | A turn-based RPG built from scratch, with hand-crafted maps and an original story | Godot 4 · GDScript |
+| Untitled 2D RPG *(in progress)* | A turn-based RPG built from scratch, with hand-crafted maps and an original story. <a href="https://www.instagram.com/adriaticinteractive_/">Stay updated</a> | Godot 4 · GDScript |
 
 ### 🛠️ Tech I work with
 
