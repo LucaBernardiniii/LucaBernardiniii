@@ -1,103 +1,59 @@
-<div align="center">
+<h1 align="center">Hi, I'm Luca 👋</h1>
 
-```
-██╗     ██╗   ██╗ ██████╗ █████╗
-██║     ██║   ██║██╔════╝██╔══██╗
-██║     ██║   ██║██║     ███████║
-██║     ██║   ██║██║     ██╔══██║
-███████╗╚██████╔╝╚██████╗██║  ██║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
-```
+<p align="center">
+  Computer Engineering student at the University of Urbino · Italy<br/>
+  I build Android apps and games, and I care about clean, private, well-designed software.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Python+%26+Flask+developer;Godot+%2F+GDScript+learner;Always+learning+something+new)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://github.com/LucaBernardiniii/Birthdawn"><img src="https://img.shields.io/badge/Latest%20project-Birthdawn-D2552F?style=flat-square&labelColor=0d1117" alt="Latest project: Birthdawn"></a>
+  <a href="https://github.com/LucaBernardiniii?tab=repositories"><img src="https://img.shields.io/badge/Repositories-browse-30363d?style=flat-square&labelColor=0d1117" alt="Browse repositories"></a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 Featured project
 
-```python
-class Luca:
-    role        = "Studying Computer Engineering at University of Urbino"
-    location    = "Italy 🇮🇹"
-    languages   = ["Python", "GDScript", "HTML"]
-    frameworks  = ["Flask"]
-    current_project = "2D RPG game built in Godot 4"
-    learning    = ["JavaScript", "Godot Engine", "Game Design", "GDScript"]
-    hobbies     = ["Game Dev", "Exploring new tech"]
-```
+<table>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/LucaBernardiniii/Birthdawn">
+        <img src="https://raw.githubusercontent.com/LucaBernardiniii/Birthdawn/main/fastlane/metadata/android/en-US/images/icon.png" width="80" alt="Birthdawn icon">
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/LucaBernardiniii/Birthdawn">Birthdawn</a></b>: a private birthday reminder for Android.<br/>
+      Upcoming-birthday carousel, calendar, custom notifications, gift ideas and a dawn-inspired theme. Fully offline, no account, no ads.<br/>
+      <sub>Kotlin · Jetpack Compose · Material 3</sub>
+    </td>
+  </tr>
+</table>
 
----
+### 🧩 Other projects
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🎮 Current Project — *Unnamed 2D RPG*
-
-> *A turn-based 2D RPG built from scratch using Godot 4 & GDScript — my biggest learning adventure so far.*
-
-```
-🗺️  Hand-crafted world & maps
-⚔️  Turn-based combat system
-🎭  Original plot & characters
-📜  Coded entirely in GDScript
-🚧  Work in progress...
-```
-
-This is my main hobby project where I'm pushing myself beyond what school teaches — learning game architecture and interactive design from the ground up.
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
+| Project | What it is | Stack |
 |---|---|---|
-| 🃏 [**Briscola Remastered**](https://github.com/LucaBernardinii/Briscola_Remastered_progetto_di_natale) | A digital version of the classic Italian card game *Briscola* | `Python` |
-| 🎬 [**MMDb**](https://github.com/LucaBernardinii/MMDb_progetto_natale) | A movie & media web app inspired by Letterboxd | `Python` `Flask` `HTML` |
+| [Briscola Remastered](https://github.com/LucaBernardinii/Briscola_Remastered_progetto_di_natale) | A digital take on the classic Italian card game | Python |
+| [MMDb](https://github.com/LucaBernardinii/MMDb_progetto_natale) | A movie and media tracker inspired by Letterboxd | Python · Flask · HTML |
+| Untitled 2D RPG *(in progress)* | A turn-based RPG built from scratch, with hand-crafted maps and an original story | Godot 4 · GDScript |
 
-</div>
+### 🛠️ Tech I work with
 
----
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucaBernardinii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaBernardinii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="160"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LucaBernardinii&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
-
-</div>
+**Currently learning:** C, game design, and more of the Android platform.
 
 ---
 
-<div align="center">
-
-*"Every expert was once a beginner."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=LucaBernardinii&color=00d9ff&style=flat-square&label=Profile+Views)
-
-⭐ **Feel free to explore my repos and leave a star if you like something!** ⭐
-
-</div>
+<p align="center">
+  <sub>If something here is useful to you, a ⭐ on the repo is always appreciated.</sub>
+</p>
